@@ -30,11 +30,11 @@
 #Show text within quotes 
 	puts "How about some more."
 
-#Show text within quotes and resultate is boolean method 'true or false'
+#Show text within quotes and resultate is boolean method 'true'
 	puts "Is it greater?", 5 > -2
 
-#Show text within quotes and resultate is boolean method 'true or false'
+#Show text within quotes and resultate is boolean method 'true'
 	puts "Is it greater or equal?", 5 >= -2
 
-#Show text within quotes and resultate is boolean method 'true or false'
+#Show text within quotes and resultate is boolean method 'false'
 	puts "Is it less or equal?", 5 <= -2
