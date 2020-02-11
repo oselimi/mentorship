@@ -18,7 +18,7 @@
  a)	x = 37
 	y = 55
 
-	puts x.to_f + y.to_f 
+	puts (x + y).to_f 
 
  b)  	x = 20.7
 	y = 10.4
